@@ -1,0 +1,178 @@
+@media (max-width: 1199.98px){
+    .snowboard-slider .slider-text{
+        font-size: 15px;
+        margin-top: 35px;
+    }
+    section{
+        padding-bottom: 150px;
+    }
+    footer{
+        text-align: center;
+    }
+    footer .col-lg-6{
+        margin-bottom: 30px;
+    }
+    .copyright{
+        margin-top: 40px;
+    }
+    footer .social-links{
+        margin: 0 auto;
+    }
+}
+@media (max-width: 991.98px){
+    .navbar-toggler {
+        background: #fff;
+        outline: none !important;
+    }
+    .navbar-brand img{
+        margin-bottom: 10px;
+    }
+    .btn-outline-success{
+        margin-left: 13px;
+    }
+    .details{
+        margin: 0;
+    }
+    .slider-content .col-lg-7{
+        text-align: center !important;
+    }
+    .text-left{
+        text-align: center !important;
+    }
+    .snowboard-slider .slick-slide img{
+        height: 300px;
+    }
+    .slick-prev,
+    .slick-next{
+    font-size: 200px;
+    }
+    .snowboards .cross-btn{
+       margin-bottom: 50px;
+    }
+    .mountains{
+        padding-top: 150px;
+        background-position: -200px center;
+        text-align: center;
+    }
+    .mountains .col-md-10{
+      margin: 0 auto;
+    }
+    .mountains .title{
+        margin-bottom: 65px;
+    }
+    .features p{
+        text-align: center !important;
+        margin: 0 auto;
+    }
+    .features .col-md-6{
+       margin-bottom: 30px;
+    }
+    .features {
+        padding: 125px 0 100px;
+    }
+}
+@media (max-width: 767.98px){
+    .snowboard-slider .slick-slide img{
+        height: 220px;
+    }
+    .slick-prev,
+    .slick-next{
+    font-size: 150px;
+    }
+    .snowboard-slider .slider-text {
+        font-size: 12px;
+        margin-top: 25px;
+    }
+   section{
+  padding-bottom: 100px;
+    }
+    .snowboards{
+        padding-top: 100px;
+    }
+    .mountains{
+        text-align: center;
+    }
+    .mountains .title{
+       margin-bottom: 50px;
+    }
+    .mountains{
+        background-position: -370px center;
+    }
+}
+@media (max-width: 575.98px){
+    .navbar-toggler{
+        margin: 0 0 10px 10px;
+    }
+    .navbar{
+        padding: 20px 40px !important;
+    }
+    .header-slider-first{
+        padding: 112px 0 125px;
+        background-position: -500px center;
+    }
+    .header-slider-second{
+        padding: 182px 0 55px;
+    }
+    h1{
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+    .title{
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+   .subtitle{
+       font-size: 13px;
+       margin-bottom: 20px;
+   }
+   .snowboard-slider .slick-slide img{
+    height: 150px;
+   }
+.slick-prev,
+.slick-next{
+font-size: 100px;
+}
+.mountains .title{
+    line-height: 45px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.mountains .title span{
+    font-size: 20px;
+}
+.mountains p{
+    font-size: 13px;
+    line-height: 25px;
+}
+.mountains{
+    padding-top: 100px;
+}
+.mountains .first{
+    margin-bottom: 25px;
+}
+.mountains{
+    background-position: -290px center;
+}
+.features {
+    padding: 100px 0 70px;
+}
+.features .cross-btn {
+    margin-bottom: 40px;
+}
+footer h4{
+    margin-bottom: 15px;
+}
+.copyright{
+    flex-direction: column;
+    margin-top: 10px;
+}
+.copyright select{
+    margin-top: 10px;
+}
+footer{
+    padding: 50px 0;
+}
+footer form{
+    margin-bottom: 25px;
+}
+}
